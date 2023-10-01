@@ -14,3 +14,7 @@ Whether a search was conducted and if contraband was found
 Coverage: The wesbite includes dataset covered 31 states, with data from dozens of individual departments. It's worth noting that the availability and granularity of the data can vary across states and departments, based on their respective data collection and reporting practices.
 
 For this project, we chose San Diego dataset due to the Volume available and the variety of the recorded features.
+
+Dataset : https://openpolicing.stanford.edu/data/
+
+![Number of Stoppages Month and Year Wise](images/Number_of_Stoppages_Month_and_Year_Wise.png)
