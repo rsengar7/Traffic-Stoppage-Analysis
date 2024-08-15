@@ -22,14 +22,9 @@ For this project, we chose the San Diego dataset due to the Volume available and
 - Number of Stoppages Month and Year Wise
 ![Number of Stoppages Month and Year Wise](https://github.com/rsengar7/Traffic-Stoppage-Analysis/blob/main/Images/Number_of_Stoppages_Month_and_Year_Wise.png)
 
-- Driver count by Gender
-![Driver count by Gender](https://github.com/rsengar7/Traffic-Stoppage-Analysis/blob/main/Images/Driver_count_Gender.png)
+- Visualization Report
+![Report](https://github.com/rsengar7/Traffic-Stoppage-Analysis/blob/main/Images/Traffic%20Stoppage%20Analysis.png)
 
-- Driver Count By Age Group
-![Driver Count By Age Group](https://github.com/rsengar7/Traffic-Stoppage-Analysis/blob/main/Images/Driver_count_age.png)
-
-- Driver Count By Race
-![Driver Count By Race](https://github.com/rsengar7/Traffic-Stoppage-Analysis/blob/main/Images/Driver_count_by_race.png)
 
 ### Approach
 - Data Cleaning
